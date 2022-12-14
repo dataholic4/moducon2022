@@ -81,6 +81,7 @@ format:
 ## 육아와 유튜브
 
 
+
 ## 재밌어야!
 
 아이를 키우는 선택지
@@ -95,10 +96,10 @@ format:
 
 ## 바이트댄스의 전략은 재미
 
-![](https://user-images.githubusercontent.com/6179259/207726259-ad6f93e2-0bf5-4996-8265-e65f7678cca5.png)[^1]
-
-[^1]: 출처: http://www.casenews.co.kr/news/articleView.html?idxno=4021
-
+![](https://user-images.githubusercontent.com/6179259/207726259-ad6f93e2-0bf5-4996-8265-e65f7678cca5.png)
+<aside>
+  <p class="aside-footnotes">출처: http://www.casenews.co.kr/news/articleView.html?idxno=4021</p>
+</aside>
 ## 채널 정체성에 맞는 재미를 찾아야
 
 설거지하면서 듣고 있어요   
