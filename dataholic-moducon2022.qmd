@@ -1,0 +1,29 @@
+---
+format: 
+  revealjs: 
+    preview-links: auto
+    incremental: true   
+    css: [moducon2022-style.css]
+---
+
+#  {page-class="title" background-image="./static/title.png"}
+
+::: {title-page-loc="title"}
+육아에서 배우는 데이터 \n
+유튜브 채널의 소통 방정식
+:::
+
+
+::: {title-page-loc="subtitle"}
+음성 컨텐츠를 만들면서 생긴 자잘한 노하우를 육아에 비유하는 고군분투 경험담
+:::
+
+::: {title-page-loc="mailto"}
+박박사 | dataholic4\@gmail.com
+:::
+
+# 다음장 {page-class="body" background-image="./static/body.png"}
+
+#  {page-class="end" background-image="./static/end.png"}
+
+박박사 | dataholic4\@gmail.com
