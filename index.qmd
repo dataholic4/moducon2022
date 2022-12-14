@@ -4,6 +4,7 @@ format:
     preview-links: auto
     theme: mytheme.scss
     css: [moducon2022-style.css]
+    footer: <https://dataholic4.github.io/moducon2022/>
 ---
 
 #  {page-class="title" background-image="./static/title.png"}
@@ -21,6 +22,10 @@ format:
 박박사 | dataholic4\@gmail.com
 :::
 
+
+::: footer
+_
+:::
 
 ## 발표자 소개 {background-image="./static/body.png"}
 
