@@ -2,7 +2,7 @@
 format: 
   revealjs: 
     preview-links: auto
-    incremental: true   
+    theme: mytheme.scss
     css: [moducon2022-style.css]
 ---
 
@@ -13,7 +13,6 @@ format:
 유튜브 채널의 소통 방정식
 :::
 
-
 ::: {title-page-loc="subtitle"}
 음성 컨텐츠를 만들면서 생긴 자잘한 노하우를 육아에 비유하는 고군분투 경험담
 :::
@@ -22,8 +21,114 @@ format:
 박박사 | dataholic4\@gmail.com
 :::
 
-# 다음장 {page-class="body" background-image="./static/body.png"}
 
-#  {page-class="end" background-image="./static/end.png"}
+## 발표자 소개 {background-image="./static/body.png"}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+<figure>
+  <img width=80% src="https://user-images.githubusercontent.com/6179259/207718250-80842c49-08b9-4b4a-95a1-e4dbcf3a9337.png">
+</figure>
+
+:::
+
+::: {.column width="60%"}
+
+- 육아하는 평범한 개발자
+- 쿠버네티스, mlops, 자동화 에 관심
+- **TWITTER**@[mrchypark_](https://twitter.com/mrchypark_)
+- **GITHUB**@[mrchypark](https://github.com/mrchypark)
+:::
+
+::::
+
+
+## 지난 2021모두콘 발표 {background-image="./static/body.png"}
+
+<a href="https://codingpot.github.io/moducon2021-slide/#1">
+  <figure>
+    <img width=70% src="https://user-images.githubusercontent.com/6179259/207719513-984cdbbf-89e5-4534-9426-a2c7a51d60c7.png">
+  </figure>
+</a>
+
+## 콘텐츠 생산 {background-image="./static/body.png"}
+
+커뮤니티에 참여하는 구체적인 방법
+
+- 블로그 글 쓰기
+- 질문에 답변하기
+- 유튜브 찍기
+- ...
+
+
+## 데이터홀릭 {background-image="./static/body.png"}
+
+- 2019년 4월 시작한 데이터 분야 전문 팟캐스트
+- 현재 김팀장, 앨리스, 박박사가 게스트를 모시고 녹음
+- 팟빵 ~~2,500~~2,700여명, 유튜브 ~~3,800~~5,150여명 구독 중
+- 여러 기업의 채용 방송, 게스트 방송 진행
+
+## 데이터홀릭 {background-image="./static/body.png"}
+
+![](https://user-images.githubusercontent.com/6179259/143490109-fb4f1f31-487c-48bd-8da9-f12ad3b49a76.png)
+
+**구독, 좋아요, 후원, 기업 강의, 채용 방송 문의등 대환영!**
+
+
+
+## 육아와 유튜브
+
+
+## 재밌어야!
+
+아이를 키우는 선택지
+당근 과 채찍
+
+당근은 애착과 성장을
+채찍은 나쁜 일을 막는 효과
+
+재미가 없으면 보지 않는다!
+
+지적 즐거움 / 농담 / 분위기 뭐든
+
+## 바이트댄스의 전략은 재미
+
+![](https://user-images.githubusercontent.com/6179259/207726259-ad6f93e2-0bf5-4996-8265-e65f7678cca5.png)[^1]
+
+[^1]: 출처: http://www.casenews.co.kr/news/articleView.html?idxno=4021
+
+## 채널 정체성에 맞는 재미를 찾아야
+
+설거지하면서 듣고 있어요   
+이번 주제 관심있었는데 재밌게 들었어요
+
+vs
+
+농담따먹기 할거면 더 재밌는 거 많아요
+
+
+## 안전
+
+
+
+## 공동 육아
+
+아이들을 키울 때 비슷한 또래의 친구들을 자주 만남
+함께 키워야 계속 할 수 있음
+
+
+함께 해야 오래할 수 있다.
+
+
+
+## 요약
+
+재미, 안전, 함께
+
+
+
+# {page-class="end" background-image="./static/end.png"}
 
 박박사 | dataholic4\@gmail.com
