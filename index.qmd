@@ -5,6 +5,7 @@ format:
     theme: mytheme.scss
     css: [moducon2022-style.css]
     footer: <https://dataholic4.github.io/moducon2022/>
+    transition: fade
 ---
 
 #  {page-class="title" background-image="./static/title.png"}
@@ -58,6 +59,8 @@ _
   </figure>
 </a>
 
+## 유튜브 채널은 커뮤니티인가?
+
 ## 콘텐츠 생산 {background-image="./static/body.png"}
 
 커뮤니티에 참여하는 구체적인 방법
@@ -82,8 +85,24 @@ _
 **구독, 좋아요, 후원, 기업 강의, 채용 방송 문의등 대환영!**
 
 
+## 데이터홀릭으로 연결된 사람들
 
-## 육아와 유튜브
+![](https://user-images.githubusercontent.com/6179259/207734939-955a9537-4bab-4e0d-9e4f-0786d9e45c51.png)
+
+
+## 데이터홀릭으로 연결된 사람들
+
+![](https://user-images.githubusercontent.com/6179259/207735802-a00a09aa-dc9e-4e0c-ade8-a1d354386122.png)
+
+## 유튜브 채널에서의 소통
+
+- 콘텐츠 생산
+- 답글 쓰기
+- 오프라인 행사
+- 라이브 방송
+- ...
+
+## 
 
 
 
