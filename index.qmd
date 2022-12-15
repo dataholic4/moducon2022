@@ -151,7 +151,7 @@ _
 </aside>    
 
 
-## 콘탠츠의 안전
+## 콘텐츠의 안전
 
 많은 사람들을 공격하는 다양한 유튜브
 
@@ -210,13 +210,17 @@ _
 
 ![](https://user-images.githubusercontent.com/6179259/207754527-2163a8ed-1c06-48cd-8599-38eff78e9072.png)
 
-## 댓글의 콘탠츠 만들기
+## 댓글의 콘텐츠 만들기
 
+![](https://user-images.githubusercontent.com/6179259/207755536-e0e6b12c-46b8-40b8-8595-62ff238b0d22.png)
 
+## 댓글의 콘텐츠 만들기
+
+![](https://user-images.githubusercontent.com/6179259/207755613-30777616-ccba-4844-8a69-55c2bbdf4445.png)
 
 ## 클럽하우스
 
-클럽하우스로 라이브 녹음 진행 후 질답
+![](https://user-images.githubusercontent.com/6179259/207755192-f0d797ab-caa7-417e-85b6-b71171113df1.png)
 
 ## 요약
 
